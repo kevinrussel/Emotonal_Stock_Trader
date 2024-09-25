@@ -22,5 +22,13 @@ I hope that makes sense?
 I have class in like 10 minutes so I may add stuff later in the day but the way I want to approach this is by splitting this project into 3 distinct sections
 
 1) Getting the trader and its api so that we can buy/sell the stock (I am starting with this since it will probably be the easiest to implement first)
+	I think my first step is to find a website that I can buy and sell fake stokes
+	There are a couple constraints I am looking for
+	1) It must have an api I can interact with
+	2) It should show real time data
+	3) It should be of the nasdaq or other major trader.
+		
+
+
 2) Making a web sraper that findes the article's
 3) The ai api and response.
