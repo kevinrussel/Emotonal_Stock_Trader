@@ -32,3 +32,11 @@ I have class in like 10 minutes so I may add stuff later in the day but the way 
 
 2) Making a web sraper that findes the article's
 3) The ai api and response.
+
+
+Entry #2) Sep/26/24
+
+Ok this in entry number two, so this is where I breakdown the trader and api.
+
+	So here is where I see the problem, I need to get api's of stock prices in real time, there is a thing I have been seeing lately and that is paper tradeing, so will look more into that.
+	Update, so I looked into it, the best application I found that would fit my need seems to be TD-ameritrade. So will look into that.   
