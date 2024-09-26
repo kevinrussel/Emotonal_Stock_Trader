@@ -38,5 +38,5 @@ Entry #2) Sep/26/24
 
 Ok this in entry number two, so this is where I breakdown the trader and api.
 
-	So here is where I see the problem, I need to get api's of stock prices in real time, there is a thing I have been seeing lately and that is paper tradeing, so will look more into that.
-	Update, so I looked into it, the best application I found that would fit my need seems to be TD-ameritrade. So will look into that.   
+So here is where I see the problem, I need to get api's of stock prices in real time, there is a thing I have been seeing lately and that is paper tradeing, so will look more into that.
+Update, so I looked into it, the best application I found that would fit my need seems to be TD-ameritrade. So will look into that.   
