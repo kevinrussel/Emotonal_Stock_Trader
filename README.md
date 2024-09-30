@@ -44,3 +44,10 @@ Update, so I looked into it, the best application I found that would fit my need
 entry #3) Sep/27/24
 
 This is getting more and more infuriating, TD ameritrade doesn't seem to have multiple paper-trdaing account, so back to the drawing board. I think I found a cool one called we-bull?
+Update #1: Ok so I have found one that seems to work, its called Alpaca, this has an api which is huge. Will have to look at the documentation to get the api up and running
+
+entry #4) Sep/29/24
+
+It was hoco last night so..... yea i didn't get too much work done yesterday.
+
+Anyway, that's fine, what I want to do do today is try and get the api key working for my project from apacha. Lets see how this goes.
