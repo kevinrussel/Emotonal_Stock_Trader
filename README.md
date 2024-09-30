@@ -52,4 +52,7 @@ It was hoco last night so..... yea i didn't get too much work done yesterday.
 
 Anyway, that's fine, what I want to do do today is try and get the api key working for my project from apacha. Lets see how this goes.
 
-entry #5) I need to update this soon 
+entry #5) I need to update this soon. Sometimes I wonder what my purpose is? What is the reason why I was put on this plaent? and why is it that I was put on this during the most "peaceful"
+time in human history? I have no idea, but I feel as if that is for me to find out. Do i believe in a god? I don't know. All science points to the answer no, but maybe it's because I started going to church 
+at a very young age, but I still hold out hope for a god. Anyway, I should probably not make this my personal diary, but I mean what can you do? Probably no one is going to be reading this, so i wonder if 
+it even matters, but at that point, does anything matter? Truly? Anyway, I need to do my other projects and then I will start working on this. 
