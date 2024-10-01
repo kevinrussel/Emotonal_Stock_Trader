@@ -56,3 +56,9 @@ entry #5) I need to update this soon. Sometimes I wonder what my purpose is? Wha
 time in human history? I have no idea, but I feel as if that is for me to find out. Do i believe in a god? I don't know. All science points to the answer no, but maybe it's because I started going to church 
 at a very young age, but I still hold out hope for a god. Anyway, I should probably not make this my personal diary, but I mean what can you do? Probably no one is going to be reading this, so i wonder if 
 it even matters, but at that point, does anything matter? Truly? Anyway, I need to do my other projects and then I will start working on this. 
+
+entry #6) Oct,1,24
+Ok this is the 6th entry in the very slow progress that i am making, it is offically the first day of october, I hope to have this project operational soon, but who knows? My goal is by 
+the 20th (that gives me 20 more days to finish this project). So I have to make sure that I stay on the grind and continue moving forward. The goal of today is to get the code running so
+that I may be able to buy a single stock. That is the idea. 
+Ok ciao.
