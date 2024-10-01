@@ -58,6 +58,7 @@ at a very young age, but I still hold out hope for a god. Anyway, I should proba
 it even matters, but at that point, does anything matter? Truly? Anyway, I need to do my other projects and then I will start working on this. 
 
 entry #6) Oct,1,24
+I managed to get the alpaca api working and it is responidng to my computer, but there is still a lot I do not understand, so onwards and upwards I guess.
 Ok this is the 6th entry in the very slow progress that i am making, it is offically the first day of october, I hope to have this project operational soon, but who knows? My goal is by 
 the 20th (that gives me 20 more days to finish this project). So I have to make sure that I stay on the grind and continue moving forward. The goal of today is to get the code running so
 that I may be able to buy a single stock. That is the idea. 
