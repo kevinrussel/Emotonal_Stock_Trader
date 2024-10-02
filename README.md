@@ -63,3 +63,10 @@ Ok this is the 6th entry in the very slow progress that i am making, it is offic
 the 20th (that gives me 20 more days to finish this project). So I have to make sure that I stay on the grind and continue moving forward. The goal of today is to get the code running so
 that I may be able to buy a single stock. That is the idea. 
 Ok ciao.
+
+
+entry #7) Oct,2,24
+so I watched the vice presidential debate last night and I have to say, kind of happy that debates are boring agian. I honestly think that it was a very 
+fair and balanced debate. I have to get a ton of school work done today, so there might be a bit of non-project work done today.
+Other than that will update if I do end up getting some work for this done.
+
