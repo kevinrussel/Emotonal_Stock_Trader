@@ -70,3 +70,6 @@ so I watched the vice presidential debate last night and I have to say, kind of 
 fair and balanced debate. I have to get a ton of school work done today, so there might be a bit of non-project work done today.
 Other than that will update if I do end up getting some work for this done.
 
+entry #8) Oct/5/24
+I took a lot of time to think about this yestreday, and I think that I am going to stop html, css and js right now. In terms of priority, its not as important in the moment. My #1 priority outside of school is trying
+to get this project up and running. I got some school work to do today, but I will be back I promise. 
