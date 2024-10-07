@@ -70,6 +70,14 @@ so I watched the vice presidential debate last night and I have to say, kind of 
 fair and balanced debate. I have to get a ton of school work done today, so there might be a bit of non-project work done today.
 Other than that will update if I do end up getting some work for this done.
 
+
 entry #8) Oct/5/24
 I took a lot of time to think about this yestreday, and I think that I am going to stop html, css and js right now. In terms of priority, its not as important in the moment. My #1 priority outside of school is trying
 to get this project up and running. I got some school work to do today, but I will be back I promise. 
+
+entry #9) oct/7/24
+This is the first entry ina a LONG time that has actual good news in it. It took a little bit of figuring out, but I am happy to say, that I can now offically submit market orders that are reflected
+on the website. This is HUGE and i'm really happy that the code is somewhat working. There is still a lot of work that I need to do, but I am happy that there is a little bit of progress that is 
+happening. There are a few kinks I need to work out, such as submitting price orders rather than share orders. Because in my mind, every buy or sell I do will be with $1000 ( an arbritary num I decided). I also thought about it, and I don't know if news bias between different news site would be a good thing to use because I worry that markets will already
+resolve themselves before I get the three different news confirmations. So I might do every single news article. But I do think that I will be doing an almost day trading but will have a max
+of two trades of a certain stock per day. Maybe, just maybe. Anyway. Off to continue with my work. cheers!
