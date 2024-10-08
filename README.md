@@ -81,3 +81,8 @@ on the website. This is HUGE and i'm really happy that the code is somewhat work
 happening. There are a few kinks I need to work out, such as submitting price orders rather than share orders. Because in my mind, every buy or sell I do will be with $1000 ( an arbritary num I decided). I also thought about it, and I don't know if news bias between different news site would be a good thing to use because I worry that markets will already
 resolve themselves before I get the three different news confirmations. So I might do every single news article. But I do think that I will be doing an almost day trading but will have a max
 of two trades of a certain stock per day. Maybe, just maybe. Anyway. Off to continue with my work. cheers!
+
+entry #10) oct/8/24
+There is a lot of issues that are still in the air, but I have made some progress on getting the news article aspect of my project. There is a news website called NewsApi, which could be 
+a good source, however the problem righ now is that 1)I do more api call's then the free teir and the next teir is like $1000 a month for like half a million api calls,2) It has a 24 hours news delay
+so that's not good. Another idea is to use Microsoft power automate, so will look into that. Anyway, it is what it is. Will come back if I finish my work for the day.
