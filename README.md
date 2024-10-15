@@ -86,3 +86,9 @@ entry #10) oct/8/24
 There is a lot of issues that are still in the air, but I have made some progress on getting the news article aspect of my project. There is a news website called NewsApi, which could be 
 a good source, however the problem righ now is that 1)I do more api call's then the free teir and the next teir is like $1000 a month for like half a million api calls,2) It has a 24 hours news delay
 so that's not good. Another idea is to use Microsoft power automate, so will look into that. Anyway, it is what it is. Will come back if I finish my work for the day.
+
+
+entry #11) oct/14/24
+I have been adding stuff to the repo I promise you, its just that I forget to keep updating the readme lol. Anyway, today I started making headwind towards the webscraper/ new's articles. I found
+a site but it has its problems, I found another one, and it looks promising and for the price, its actually not bad, we might have stumbled onto gold here team. Anyway, I feel mentally drained
+but thats life right? Anyway, going to sleep lol. Have a good night!
