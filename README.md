@@ -92,3 +92,11 @@ entry #11) oct/14/24
 I have been adding stuff to the repo I promise you, its just that I forget to keep updating the readme lol. Anyway, today I started making headwind towards the webscraper/ new's articles. I found
 a site but it has its problems, I found another one, and it looks promising and for the price, its actually not bad, we might have stumbled onto gold here team. Anyway, I feel mentally drained
 but thats life right? Anyway, going to sleep lol. Have a good night!
+
+entry #12) oct/18/24
+I have made some decent progress, the Ai api has finally started working (needed to spend $5 on it, what kind of scam is that). Now I need to figure out how the program should flow and
+what edge cases I need to worry about. What I am thinking is that, first the news file looks for new news headlines, then we send a request to the Ai file, (will probably need to use threading
+because there are a couple different Ai models, and then finally we need to send it to the paper trading account. Anyway, a lot to figure out, but at least I am figuring out how it slowly works
+so there is that. I have decided that I am going to do a different Readme document because lord knows, if someone tries to read this, it is going to sound like the mumblings of a madman.
+Anyway, back to the grind (or lack thereof hahahahah)
+
