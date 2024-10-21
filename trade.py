@@ -25,6 +25,8 @@ if account.trading_blocked:
 def printAccount():
     print('${} is available as cash.'.format(account))
     print(trading_client.get_open_position("TSLA")) ## this is to check the current price of how much I bought of tesla.
+
+
 def market_order_request_buy(symbol,qty):
     market_order_data = MarketOrderRequest(
         symbol = symbol,
@@ -46,5 +48,4 @@ def market_order_request_sell(symbol,qty):
 
 def market_order( market_order_data):
     market_order = trading_client.submit_order(order_data = market_order_data)
-
-printAccount()
+    print("Market order has been sent through")

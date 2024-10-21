@@ -4,16 +4,19 @@ from config import *
 client = OpenAI(
     api_key=aiKey
 )
-prompt = "Troubled Boeing signals it may raise up to $25 billion to shore up finances"
-completion = client.chat.completions.create(
-    model="gpt-4o-mini",
-    messages=[
-        {"role": "system", "content": "You are a program with the sole intention of maximizing shareholder value"},
-        {
-            "role": "user",
-            "content": "give me a rating from 1-100 (100 being the best) from the view of the shareholders with this news title "+prompt+"you answer should be in the form ""my answer is" "followed by your number."
-        }
-    ]
-)
 
-print(completion.choices[0].message)
+def OpenAiPrompt(newsprompt):
+
+    prompt = newsprompt
+    completion = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": "You are a program with the sole intention of maximizing your stock portfolio. That means buying stocks when they are good, and selling stocks when they are bad."},
+            {
+                "role": "user",
+                "content": "give me a rating from 1-100 (100 being the best) from the view of the shareholders with this news title "+prompt+"you answer should be just a number"
+            }
+        ]
+    )
+
+    return(completion.choices[0].message)
