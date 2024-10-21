@@ -1,6 +1,6 @@
 
-## this is newsdata.io 
-## look into mediastack???
+## this is mediastack.
+
 import http.client,urllib.parse,json
 from config import *
 
@@ -9,13 +9,13 @@ conn = http.client.HTTPConnection('api.mediastack.com')
 params = urllib.parse.urlencode({
     'access_key': newsAPI,
     'categories': 'general,business,-technology',
-    'sort': 'published_desc',
+    'sort': 'popularity', ## sorted it out by popularity.
     'languages':'en',
     'countries': 'us',
-    'keywords': 'Boeing',
+    'keywords': 'lasdjla',
     # 'sources':'elon',
-    'limit': 10,
-    'date': '2024-10-15'
+    'limit': 1,
+    'date': '2024-10-20'
     })
 conn.request('GET', '/v1/news?{}'.format(params))
 
@@ -35,28 +35,6 @@ for item in data_list:
 
 
 
-# from newsdataapi import NewsDataApiClient
-# from config import *
-
-# import json
-
-
-# api = NewsDataApiClient(apikey=newsAPI)
-
-# query = "Boeing"
-# response = api.news_api(q=query)
-# data_list = response['results']
-
-# counter = 0
-# for item in data_list:
-#     counter = counter +1
-#     if query in item['title']:
-#         print(item['title'])
-#         print(item['source_url'])
-#         print(item['country'])
-    
-# print(counter)
-    
 
 
 

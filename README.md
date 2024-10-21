@@ -100,3 +100,14 @@ because there are a couple different Ai models, and then finally we need to send
 so there is that. I have decided that I am going to do a different Readme document because lord knows, if someone tries to read this, it is going to sound like the mumblings of a madman.
 Anyway, back to the grind (or lack thereof hahahahah)
 
+entry #13) oct/21/24
+Well the day has finally come where I now need to figure out the flow of the program. I am going to be acting on the thinking that I have already set up the serverless and the program is going to
+going to be running continually. Every 15 minutes, my program will call a function in the news.py, this function will return a headline back to the program. The program will then check the headline
+with preexsting headlines. (This is what I am also thinking, to avoid conflict, you can only trade a certain stock once per day.) (ie: 24 hours since the last trade??). but lets forget about
+edge cases right now. The next part of this program is to then to call on the Ai portion of this code, this Ai functoin will take in the headline and spit back out a output with a number. With this
+I will then call upon the paper trading account and it will execute the trade. I have to figure out if I can even sell a stock without buying it first?. Ok I am back and here are some of the changes
+that I was able to make. The first change lets me see the position of each stock, therefore I can now start getting some logic to ensure that I only buy if I already own the stock. Secondly, I now
+have the code set up in such a fashion that the news articles will be spit out by popularity first. This is to ensure that I do not get some back water news channel reporting misinformation.
+Finally, I want to make another TODO which will write each Ai transaction as well as some other key features onto a excel file, I think that would be cool to see in the future. The companies that I
+am mostly going to trade is Apple, Microsoft, Amazon, google, Tesla, Meta, Nvida, Netflix, Walmart, and JP morgan, (I might also toss in an elon for tesla). Thank you for sticking with another entry
+and I will see you later. 
