@@ -111,3 +111,8 @@ have the code set up in such a fashion that the news articles will be spit out b
 Finally, I want to make another TODO which will write each Ai transaction as well as some other key features onto a excel file, I think that would be cool to see in the future. The companies that I
 am mostly going to trade is Apple, Microsoft, Amazon, google, Tesla, Meta, Nvida, Netflix, Walmart, and JP morgan, (I might also toss in an elon for tesla). Thank you for sticking with another entry
 and I will see you later. 
+
+entry #14) oct/22/24
+Another day another dollar am I right? Bahahahahah. I worked on these files a bit more, and I figured out how to get the current stock price and hopefully I will be able to do some math logic to
+see if I have the money to actually buy the stock. I have a fear that I will buy a lot of stock and not actually sell any. But we wll corss that bridge when we get to it right? Anyway, did my work for
+today. I want to have an end date by nov,1st, 2024.

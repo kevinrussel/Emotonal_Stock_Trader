@@ -8,12 +8,12 @@ conn = http.client.HTTPConnection('api.mediastack.com')
 def newsHeadline(keyword):
     params = urllib.parse.urlencode({
         'access_key': newsAPI,
-        'categories': 'general,business,technology',
+        'categories': 'general,-business,technology',
         'sort': 'popularity', ## sorted it out by popularity.
         'languages':'en',
         'countries': 'us',
         'keywords': keyword,
-        'limit': 1,
+        'limit': 1, ## since we just one one article to be returned to us.
         'date': '2024-10-20'
         })
     conn.request('GET', '/v1/news?{}'.format(params))

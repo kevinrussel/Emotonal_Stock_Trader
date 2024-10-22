@@ -3,16 +3,36 @@ from news import *
 from OpenAi import *
 # from config import *
 from trade import *
+import time
 
 
+## For the stock amount, what we are going to do, is get our number (ex 65) then divide it by 10 to get the number of stocks 
+## we are going to buy. ( We should also calculate if we even have enough cash to buy it.)
 
-BuyTeslaFlag = True
-SellTeslaFlag = True
 
-TeslaNewsHeadline = ''
+## this is for tesla.
+def teslaFunction():
+    BuyTeslaFlag = True
+    SellTeslaFlag = True
 
+    TeslaNewsHeadline = ''
+    headline = "Tesla"
+    newsData = newsHeadline(headline)
+    print(newsData[0])
+    TeslaNewsHeadline = newsData[0]
+    Aiprompt = int(OpenAiPrompt(newsData[0]).content)
+
+    if(Aiprompt>= 60 and SellTeslaFlag == True and "Tesla" in TeslaNewsHeadline):
+        BuyTeslaFlag = False ## this is to make sure that we also don't sell the stock if we bought it the same day.
+        
+
+
+## main function.
 if __name__ == '__main__':
     try:
+
+
+
         headline= "Tesla"
         newsData = newsHeadline(headline)
         print(newsData[0])
@@ -34,3 +54,6 @@ if __name__ == '__main__':
         print(e)
         print("this is an exception")
     
+
+
+
