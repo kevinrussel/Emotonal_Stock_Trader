@@ -116,3 +116,9 @@ entry #14) oct/22/24
 Another day another dollar am I right? Bahahahahah. I worked on these files a bit more, and I figured out how to get the current stock price and hopefully I will be able to do some math logic to
 see if I have the money to actually buy the stock. I have a fear that I will buy a lot of stock and not actually sell any. But we wll corss that bridge when we get to it right? Anyway, did my work for
 today. I want to have an end date by nov,1st, 2024.
+
+entry #15) Oct/23/24
+"Ceaser Wept, for there were no more worlds to conquer". I am a genius, there is no other way to say it (I made my program work for once lol). In all seriousness, this is a huge moment for me,
+because my program will now look at the stock, figure out a value, judge if we have enough cash and then send it through. Which in my eyes is actually kind of crazy. So BIG DUBS for today.
+There is a still a LOT of work that need to be done on this program, but the fact that it is actually working brings a tear to my seriously. As much as I want to celebrate, I have a LOOOONG day
+ahead of me because Wednesday's are THE WORST. Therefore I have to log off. Proud of myself none-the-less. Cheers!!
